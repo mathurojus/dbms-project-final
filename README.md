@@ -10,4 +10,3 @@ This repo contains a full-stack production app:
 - Standalone HTML dashboard demo (if you want instant showcase)
 
 ## 🏁 Quick Start
-
