@@ -13,9 +13,6 @@ This repo contains a full-stack production app:
 
 ## 📦 Download Core Assets
 
-- 📄 **PDF Documentation:**  
-  [chicago-crime-project.pdf](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/1f24f3b486536a50aaf2e03fba4fd105/4dc95cba-7995-4358-979e-7c0b7e392ec9/pdf_06979dcd.pdf)
-
 - 💻 **Standalone HTML Demo:**  
   [standalone-demo.html](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/562d9c298748589803055cf9a695e82b/e5e70757-b5ed-43e3-9a7d-bd16b87fc9b8/index.html)
 
